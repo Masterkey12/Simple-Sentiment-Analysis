@@ -58,5 +58,15 @@ class Sentiment(object):
                 print s,q.sentiment
                 print s,q.sentiment
                 print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
+                print s.q.sentiment
             
                 
