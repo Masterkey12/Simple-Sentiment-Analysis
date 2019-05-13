@@ -55,4 +55,8 @@ class Sentiment(object):
             for s in sents:                
                 q = TextBlob(s)
                 print s, q.sentiment
+                print s,q.sentiment
+                print s,q.sentiment
+                print s.q.sentiment
+            
                 
